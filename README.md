@@ -60,4 +60,14 @@ Branch
 git branch -D branch-name   delate branch
 
 
+Useful Resources & Links
+---------------------------
+
+Official Git website => https://git-scm.com/
+
+Git MacOS installation => https://github.com/git-guides/install-git
+
+Git commands reference => https://git-scm.com/docs
+
+
 
